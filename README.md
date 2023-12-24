@@ -1,6 +1,6 @@
 # SHU-VPNconfig-for-Ubuntu
 
-参照https://vpn.shu.edu.cn/上的SHU.ovpn修改而来，原本的该文件无法直接导入Ubuntu的VPN设置。
+参照 https://vpn.shu.edu.cn/ 上的SHU.ovpn修改而来，原本的该文件无法直接导入Ubuntu的VPN设置。
 
 修改后已在Ubuntu20.04与Ubuntu22.04上测试成功。
 
